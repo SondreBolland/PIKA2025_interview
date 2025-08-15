@@ -103,71 +103,6 @@
     }
   },
   "questions": {
-    "research": {
-      "caption": "Vil du delta i et forskningsprosjekt?",
-      "type": "plain-text",
-      "text": "Her spør vi om du ønsker å delta i et forskningsprosjekt tilknyttet denne testen hvor vi lagrer data om dine forkunnskaper i programmering og sammenligner med dine eksamensresultater de neste tre semestrene. Her er detaljene:<br><h4>Vil du delta i forskningsprosjektet \"Langtidseffekten av programmeringsundervisning før høyere utdanning\"?</h4><b>Formålet med prosjektet</b><br>Dette er et spørsmål til deg om du vil delta i et forskningsprosjekt hvor formålet er å undersøke hva av forkunnskaper du har om programmering før du begynner høyere utdanning og hvordan disse kunnskapene påvirker resultatene i de programmeringsemnene du skal ta i de første årene av bacheloren din. Vi ønsker å finne ut om slike forkunnskaper gjør en forskjell på hvor godt du lærer programmering på universitetsnivå. Dette er et forskningsprosjekt som samler inn informasjon fra studenter ved Universitetet i Bergen og Universitetet i Oslo, ment for å forbedre undervisningen av programmering.<br></br>Vennligst merk følgende:<ul><li>Dine individuelle svar vil aldri bli publisert eller delt.</li><li>Alle resultater vil kun bli rapportert i aggregert form – som gjennomsnitt, trender eller sammenligninger mellom grupper.</li><li>Formålet med denne forskningen er å forbedre programmeringsundervisningen ved å analysere hvordan ulike grupper av studenter presterer på ulike typer oppgaver.</li></ul><b>Hvorfor får du spørsmål om å delta?</b><br>Du får denne forespørselen fordi du er oppmeldt i kurset INF100 – Innføring i programmering.<br><br><b>Hvem er ansvarlig for forskningsprosjektet?</b><br>Ansvarlig for personopplysningene som behandles i prosjektet er Sondre Sæther Bolland ved Institutt for Informatikk ved Universitetet i Bergen og Siri Moe Jensen ved Institutt for Informatikk ved Universitetet i Oslo.<br><br><b>Du kan reservere deg</b><br>Du kan velge å reservere deg mot å delta i dette prosjektet. Hvis du ønsker å reservere deg, velg <i>Jeg samtykker IKKE</i> på bunnen av denne siden. Det vil ikke ha noen negative konsekvenser for deg hvis du ikke vil delta.<br><br><b>Hva innebærer det for deg å delta?</b><br>Deltagelse i dette forskningsprosjektet innebærer:<br>• å svare på denne testen om dine programmeringskunnskaper.<br>• at vi samler inn poengsum fra eksamen i emnet INF100, samt INF101 og INF102 hvis disse ligger i din studieplan.<br><br>I dette forskningsprosjektet vil vi samle inn de følgende personopplysningene:<br>• Ditt universitetsbrukernavn<br>• Hvilket studieprogram du er oppmeldt<br>• Ditt kjønn<br>• Når du fullførte videregående<br>• Hvilke fag du fullførte på videregående<br>• Hvor mye programmering du har gjort på fritiden<br>• Hvorvidt du har fullført en programmeringsemne i høyere utdanning tidligere<br><br>Disse opplysningene registreres via dette elektroniske spørreskjemaet og lagres på en godkjent og sikker forskningsserver—Norwegian Research and Education Cloud. Vi vil bruke ditt universitetsbrukernavn til å hente ut eksamenspoengsum i emnene INF100, INF101 og INF102 fra instituttets administrasjon.<br><br><b>Kort om personvern</b><br>Vi vil bare bruke opplysningene om deg til formålene vi har fortalt om i dette skrivet. Vi behandler personopplysningene konfidensielt og i samsvar med personvernregelverket. Du kan lese mer om personvern ved å <a href=\"https://pika-test.org/personvern/\">klikke her</a>."
-    },
-    "research_answer": {
-      "caption": "<b>Samtykker du til å delta i dette forskningsprosjektet?</b><br><small>Selv om du velger å ikke delta i forskningsprosjektet ønsker vi at du fullfører denne testen. Vi vil da lagre svarene dine anonymt for å kunne forbedre undervisningen vår.</small>",
-      "type": "options",
-      "options": [
-        "Jeg samtykker. Dette er mitt UiB-brukernavn:",
-        "Jeg samtykker IKKE"
-      ],
-      "keys": [
-        "consent:",
-        "no_consent"
-      ]
-    },
-    "username": {
-      "caption": "",
-      "type": "plain-text",
-      "text": "Dette er brukernavnet du har fått for din universitetsbruker. Du bruker den til å logge inn på MittUiB og e-posten din. Brukernavnet begynner med 3-4 bokstaver etterfulgt av 3-4 tall. F.eks.:<br><b>abcd1234</b> eller <b>abc123</b><br>Hvis du ikke vet hva brukernavnet ditt er så kan du gå på INF100-emnesiden (MittUiB) og søke opp navnet ditt under \"Personer\". Det skal stå i kollonnen \"SIS-ID\"."
-    },
-    "guidelines": {
-      "caption": "",
-      "type": "plain-text",
-      "text": "Denne testen skal gjennomføres uten bruk av hjelpemidler. Kommunikasjon med andre og bruk av eksterne ressurser som internett, bøker, utskrifter osv. er ikke tillatt.<br></br>De eneste tillatte hjelpemidlene er penn og papir."
-    },
-    "own_work_declaration": {
-      "caption": "<b>Godtar du å følge retningslinjene?</b>",
-      "type": "options",
-      "options": [
-        "Jeg godtar"
-      ],
-      "keys": [
-        "agree"
-      ]
-    },
-    "id": {
-      "caption": "Dette er brukernavnet du har fått for din universitetsbruker. Du bruker den til å logge inn på MittUiB og e-posten din.<br><br>ID'en begynner med 3-4 bokstaver etterfulgt av 3-4 tall. F.eks.:<br><br><b>abcd1234</b> eller <b>abc123</b><br><br>Hvis du ikke vet hva ID'en din er så kan du gå på INF100-emnesiden (MittUiB) og søke opp navnet ditt under \"Personer\".",
-      "type": "text"
-    },
-    "institution": {
-      "caption": "Ved hvilken institusjon (universitet/høyskole) studerer du?",
-      "type": "options-list",
-      "options": [
-        "Universitetet i Bergen (UiB)",
-        "Universitetet i Oslo (UiO)",
-        "Norges teknisk-naturvitenskapelige universitet (NTNU)",
-        "Norges miljø- og biovitenskapelige universitet (NMBU)",
-        "Høgskolen i Østfold (HIOF)",
-        "Høgskulen på Vestlandet (HVL)",
-        "Universitetet i Stavanger (UiS)",
-        "Høyskolen Kristiania"
-      ],
-      "keys": [
-        "UiB",
-        "UiO",
-        "NTNU",
-        "NMBU",
-        "HIOF",
-        "HVL",
-        "UiS",
-        "Kristiania"
-      ]
-    },
     "study_field": {
       "caption": "Hva studerer du?",
       "type": "options-list",
@@ -224,6 +159,7 @@
         "2014",
         "2013",
         "2012",
+        "2011",
         "2010",
         "2009",
         "2008",
@@ -393,6 +329,19 @@
       "type": "plain-text",
       "text": "Denne testen har ingen tilbake-knapp. Du vil derfor ikke kunne gå tilbake til et tidligere spørsmål for å endre svaret etter å ha klikket på <b>Neste</b>."
     },
+    "example": {
+      "caption": "Hvilket tall er den neste i rekken?<br></b><b>2, 4, 8, 16, _</b>",
+      "type": "options",
+      "options": [
+        "Neste i rekken:",
+        "Jeg vet ikke"
+      ],
+      "keys": [
+        "integer:",
+        "-"
+      ],
+      "correct": "integer:32"
+    },
     "expressions1": {
       "caption": "Hva skrives ut når denne koden kjøres?",
       "type": "options",
@@ -470,162 +419,6 @@
         "-"
       ],
       "correct": "str:111"
-    },
-    "variables1a": {
-      "caption": "Hva er verdien til variabelen <strong>a</strong> etter linje 4 er utført?",
-      "type": "options",
-      "options": [
-        "Dens verdi er:",
-        "Jeg vet ikke"
-      ],
-      "keys": [
-        "integer:",
-        "-"
-      ],
-      "correct": "integer:20"
-    },
-    "variables1b": {
-      "caption": "Hva er verdien til variabelen <strong>b</strong> etter linje 4 er utført?",
-      "type": "options",
-      "options": [
-        "Dens verdi er:",
-        "Jeg vet ikke"
-      ],
-      "keys": [
-        "integer:",
-        "-"
-      ],
-      "correct": "integer:20"
-    },
-    "variables2a": {
-      "caption": "Hva er verdien til variabelen <strong>a</strong> etter linje 4 er utført?",
-      "type": "options",
-      "options": [
-        "Dens verdi er:",
-        "Jeg vet ikke"
-      ],
-      "keys": [
-        "integer:",
-        "-"
-      ],
-      "correct": "integer:10"
-    },
-    "variables2b": {
-      "caption": "Hva er verdien til variabelen <strong>b</strong> etter linje 4 er utført?",
-      "type": "options",
-      "options": [
-        "Dens verdi er:",
-        "Jeg vet ikke"
-      ],
-      "keys": [
-        "integer:",
-        "-"
-      ],
-      "correct": "integer:10"
-    },
-    "variables3a": {
-      "caption": "Hva er verdien til variabelen <strong>a</strong> etter linje 5 er utført?",
-      "type": "options",
-      "options": [
-        "Dens verdi er:",
-        "Jeg vet ikke"
-      ],
-      "keys": [
-        "integer:",
-        "-"
-      ],
-      "correct": "integer:20"
-    },
-    "variables3b": {
-      "caption": "Hva er verdien til variabelen <strong>b</strong> etter linje 5 er utført?",
-      "type": "options",
-      "options": [
-        "Dens verdi er:",
-        "Jeg vet ikke"
-      ],
-      "keys": [
-        "integer:",
-        "-"
-      ],
-      "correct": "integer:20"
-    },
-    "variables4a": {
-      "caption": "Hva er verdien til variabelen <strong>a</strong> etter linje 6 er utført?",
-      "type": "options",
-      "options": [
-        "Dens verdi er:",
-        "Jeg vet ikke"
-      ],
-      "keys": [
-        "integer:",
-        "-"
-      ],
-      "correct": "integer:20"
-    },
-    "variables4b": {
-      "caption": "Hva er verdien til variabelen <strong>b</strong> etter linje 6 er utført?",
-      "type": "options",
-      "options": [
-        "Dens verdi er:",
-        "Jeg vet ikke"
-      ],
-      "keys": [
-        "integer:",
-        "-"
-      ],
-      "correct": "integer:30"
-    },
-    "variables4c": {
-      "caption": "Hva er verdien til variabelen <strong>c</strong> etter linje 6 er utført?",
-      "type": "options",
-      "options": [
-        "Dens verdi er:",
-        "Jeg vet ikke"
-      ],
-      "keys": [
-        "integer:",
-        "-"
-      ],
-      "correct": "integer:30"
-    },
-    "variables5a": {
-      "caption": "Hva er verdien til variabelen <strong>a</strong> etter linje 7 er utført?",
-      "type": "options",
-      "options": [
-        "Dens verdi er:",
-        "Jeg vet ikke"
-      ],
-      "keys": [
-        "integer:",
-        "-"
-      ],
-      "correct": "integer:30"
-    },
-    "variables5b": {
-      "caption": "Hva er verdien til variabelen <strong>b</strong> etter linje 7 er utført?",
-      "type": "options",
-      "options": [
-        "Dens verdi er:",
-        "Jeg vet ikke"
-      ],
-      "keys": [
-        "integer:",
-        "-"
-      ],
-      "correct": "integer:30"
-    },
-    "variables5c": {
-      "caption": "Hva er verdien til variabelen <strong>c</strong> etter linje 7 er utført?",
-      "type": "options",
-      "options": [
-        "Dens verdi er:",
-        "Jeg vet ikke"
-      ],
-      "keys": [
-        "integer:",
-        "-"
-      ],
-      "correct": "integer:30"
     },
     "1booltext": {
       "caption": "",
@@ -1581,22 +1374,7 @@
   },
   "pages": [
     {
-      "title": "Forskningsprosjekt",
-      "content": [
-        "research",
-        "research_answer",
-        "username"
-      ]
-    },
-    {
-      "title": "Rettningslinjer",
-      "content": [
-        "guidelines",
-        "own_work_declaration"
-      ]
-    },
-    {
-      "title": "Hvor studerer du?",
+      "title": "Hva studerer du?",
       "content": [
         "study_field"
       ]
@@ -1633,6 +1411,12 @@
       "title": "Ingen tilbake-knapp",
       "content": [
         "back_button"
+      ]
+    },
+    {
+      "title": "Eksempel",
+      "content": [
+        "example"
       ]
     },
     {
@@ -1676,48 +1460,6 @@
         "expressions6"
       ],
       "code": "create_test/tasks/utrykk/utrykk6.py"
-    },
-    {
-      "title": "Variabler 1",
-      "content": [
-        "variables1a",
-        "variables1b"
-      ],
-      "code": "create_test/tasks/variabler/variabler1.py"
-    },
-    {
-      "title": "Variabler 2",
-      "content": [
-        "variables2a",
-        "variables2b"
-      ],
-      "code": "create_test/tasks/variabler/variabler2.py"
-    },
-    {
-      "title": "Variabler 3",
-      "content": [
-        "variables3a",
-        "variables3b"
-      ],
-      "code": "create_test/tasks/variabler/variabler3.py"
-    },
-    {
-      "title": "Variabler 4",
-      "content": [
-        "variables4a",
-        "variables4b",
-        "variables4c"
-      ],
-      "code": "create_test/tasks/variabler/variabler4.py"
-    },
-    {
-      "title": "Variabler 5",
-      "content": [
-        "variables5a",
-        "variables5b",
-        "variables5c"
-      ],
-      "code": "create_test/tasks/variabler/variabler5.py"
     },
     {
       "title": "Boolske utrykk 1",
