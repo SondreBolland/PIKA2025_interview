@@ -15,7 +15,7 @@ from werkzeug.middleware.proxy_fix import ProxyFix
 
 from grading_utils import grade_answers, count_correct, group_answers
 
-root = "/uib"
+root = "/interview"
 #root = ""
 app = Flask(__name__, static_url_path = root + "/static")
 app.config['APPLICATION_ROOT'] = root
