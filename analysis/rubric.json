@@ -10,23 +10,6 @@
         },
         "score": 1
     },
-    "variables": {
-        "answers": {
-            "variables1a": 20,
-            "variables1b": 20,
-            "variables2a": 10,
-            "variables2b": 10,
-            "variables3a": 20,
-            "variables3b": 20,
-            "variables4a": 20,
-            "variables4b": 30,
-            "variables4c": 30,
-            "variables5a": 30,
-            "variables5b": 30,
-            "variables5c": 30
-        },
-        "score": 1
-    },
     "bool": {
         "answers": {
             "bool1a": "False",
